@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "e52053a72255d596283d081a6f3810f4"
+build_time: [1579884048, 356837000]
+inputs:
+  "/Users/lukesadler/Documents/honcho-poc/honcho-poc/PageBuilder.swift": [1579881888, 70337373]
+  "/Users/lukesadler/Documents/honcho-poc/honcho-poc/OptionButton.swift": [1579879057, 486543053]
+  "/Users/lukesadler/Documents/honcho-poc/honcho-poc/PageContentItem.swift": [1579880671, 320736061]
+  "/Users/lukesadler/Documents/honcho-poc/honcho-poc/ViewController.swift": [1579883866, 389425974]
+  "/Users/lukesadler/Documents/honcho-poc/honcho-poc/AppDelegate.swift": [1579874528, 491244556]
+  "/Users/lukesadler/Documents/honcho-poc/honcho-poc/Page.swift": [1579884043, 745087978]
+  "/Users/lukesadler/Documents/honcho-poc/honcho-poc/PageContentOptions.swift": [1579880760, 169079853]
+  "/Users/lukesadler/Documents/honcho-poc/honcho-poc/OptionButtonsStackView.swift": [1579877550, 452242803]
